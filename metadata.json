@@ -1,0 +1,7 @@
+{
+  "name": "DevForge AI - Game Dev Suite",
+  "description": "A comprehensive AI-powered toolkit for game developers to enhance assets, generate blueprints, create textures, analyze 3D models, and find free assets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
